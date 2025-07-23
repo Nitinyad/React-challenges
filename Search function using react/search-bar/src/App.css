@@ -1,0 +1,22 @@
+.App{
+  background-color: aliceblue;
+  width: 100vw;
+  height: 100vh;
+  max-height: 500px;
+}
+
+.search-bar-container{
+  margin-top: 10px;
+  display: flex;
+  width: 100%;
+  max-height: 400px;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 200px;
+}
+
+.search-result{
+  padding: 10px 20px;
+}
